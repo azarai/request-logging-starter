@@ -1,0 +1,21 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>de.codeboje</groupId>
+	<artifactId>request-logging-spring-boot-parent</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
+
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<maven.compiler.source>1.8</maven.compiler.source>
+		<maven.compiler.target>1.8</maven.compiler.target>
+		<spring-boot.version>1.5.3.RELEASE</spring-boot.version>
+		<request-logging.version>0.0.1-SNAPSHOT</request-logging.version>
+	</properties>
+
+	<modules>
+		<module>autoconfiguration</module>
+		<module>starter</module>
+	</modules>
+</project>
