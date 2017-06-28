@@ -1,6 +1,6 @@
 # A Spring Boot Starter for the request logging lib
 
-It started as a tutorial for [Creating a Spring Boot Starter[(http://codeboje.de/create-spring-boot-starter/) but evolved as a utiity lib.
+It started as a tutorial for [Creating a Spring Boot Starter](http://codeboje.de/create-spring-boot-starter/) but evolved as a utiity lib.
 
 
 # Install
