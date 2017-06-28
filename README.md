@@ -21,5 +21,8 @@ Add the dependencies to your pom:
 </dependency>
 ```
 
+Now add _requestId_ as a user variable to your logback log pattern like:
 
-
+```
+%d{yyyy-MM-dd HH:mm:ss.SSS} [%thread] %-5level %logger{36} %X{requestId} - %msg
+```
