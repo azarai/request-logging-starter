@@ -8,7 +8,8 @@
 	</parent>
 
 	<artifactId>request-logging-spring-boot-starter</artifactId>
-
+	<name>Spring Boot Starter Request Logging - The Starter</name>
+	
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
