@@ -1,9 +1,8 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>de.codeboje</groupId>
 	<artifactId>request-logging-spring-boot-parent</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<packaging>pom</packaging>
 
 	<name>Spring Boot Starter Request Logging Parent</name>
@@ -17,7 +16,8 @@
 		<connection>scm:git:git://github.com/azarai/request-logging-starter.git</connection>
 		<developerConnection>scm:git:git@github.com:azarai/request-logging-starter.git</developerConnection>
 		<url>https://github.com/azarai/request-logging-starter.git</url>
-	</scm>
+	  <tag>request-logging-spring-boot-parent-0.0.1</tag>
+  </scm>
 	<issueManagement>
 		<url>https://github.com/azarai/request-logging-starter/issues</url>
 	</issueManagement>
