@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>de.codeboje</groupId>
 	<artifactId>request-logging-spring-boot-parent</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<name>Spring Boot Starter Request Logging Parent</name>
@@ -16,7 +16,7 @@
 		<connection>scm:git:git://github.com/azarai/request-logging-starter.git</connection>
 		<developerConnection>scm:git:git@github.com:azarai/request-logging-starter.git</developerConnection>
 		<url>https://github.com/azarai/request-logging-starter.git</url>
-	  <tag>request-logging-spring-boot-parent-0.0.1</tag>
+	  <tag>HEAD</tag>
   </scm>
 	<issueManagement>
 		<url>https://github.com/azarai/request-logging-starter/issues</url>

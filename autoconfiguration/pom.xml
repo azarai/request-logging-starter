@@ -3,7 +3,7 @@
 	<parent>
 		<groupId>de.codeboje</groupId>
 		<artifactId>request-logging-spring-boot-parent</artifactId>
-		<version>0.0.1</version>
+		<version>0.0.2-SNAPSHOT</version>
 	</parent>
 	<artifactId>request-logging-spring-boot-autoconfigure</artifactId>
 
